@@ -31,12 +31,15 @@ public class MODELODECOMPUTACION_PANELINTELIGENTE {
         System.out.println("\nASDMINISTRADOR DE NIVEL DE SUPERVICION:");
         String siperv =objeto.nextLine();
         
-        System.out.println("\nASDMINISTRADOR DE NIVEL MES:");
+        System.out.println("\nREGISTRO DE NIVEL MES:");
         String mes =objeto.nextLine();
+        
+         System.out.println("\nREGISTRO DE NIVEL ERP:");
+        String erp =objeto.nextLine();
         
       
               
-        System.out.println("\nIMPRIMIR REPORTES" +one+"\n" + plc + "\n"+siperv+ "\n" +mes+"\n");
+        System.out.println("\nIMPRIMIR REPORTES" +one+"\n" + plc + "\n"+siperv+ "\n" +mes+"\n"+erp);
         
         
         
