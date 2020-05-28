@@ -34,10 +34,9 @@ public class MODELODECOMPUTACION_PANELINTELIGENTE {
         System.out.println("\nASDMINISTRADOR DE NIVEL MES:");
         String mes =objeto.nextLine();
         
-        System.out.println("\nADMINISTRADOR DE NIVEL DE ERP:");
-        String erp =objeto.nextLine();
-       
-        System.out.println("\nIMPRIMIR REPORTES" +one+"\n" + plc + "\n"+siperv+ "\n" +mes+"\n"+erp);
+      
+              
+        System.out.println("\nIMPRIMIR REPORTES" +one+"\n" + plc + "\n"+siperv+ "\n" +mes+"\n");
         
         
         
